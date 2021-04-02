@@ -3,9 +3,9 @@ import App from './App.vue'
 import './plugins/element.js'
 
 // import router from './router'
-import router from './krouter'
+import router from './hrouter'
 
-import store from './kstore'
+import store from './hstore'
 // import store from './store'
 
 Vue.config.productionTip = false
