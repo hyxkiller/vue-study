@@ -47,14 +47,14 @@ function set(obj, key, val) {
 }
 
 
-// obj.foo;
-// obj.foo = "foooooooo";
-// obj.bar;
-// obj.baz.a
-// obj.baz =  {
-//   a: 10
-// }
-// obj.baz.a
+obj.foo;
+obj.foo = "foooooooo";
+obj.bar;
+obj.baz.a
+obj.baz =  {
+  a: 10
+}
+obj.baz.a
 
 // obj.dong = 'dong' // no ok
 set(obj, 'dong', 'dong')
